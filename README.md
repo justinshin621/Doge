@@ -18,6 +18,3 @@ The controls for the game are as followed:
   d -> move right
   
   ENTER key -> shoot tennis balls
-
-
-Enjoy
