@@ -1,6 +1,6 @@
 # Doge
 
-This is the Doge Game.
+Developed in Unity.
 
 Collect the Carrots to earn points and dodge the spikes and the moving chocolates on the map to avoid death! You may jump over obstacles
 and enemies but you are able to shoot enemies down with your tennis balls. 
