@@ -2,6 +2,8 @@
 
 Developed in Unity.
 
+![](/Images/DogeScreen2.PNG)
+
 Collect the Carrots to earn points and dodge the spikes and the moving chocolates on the map to avoid death! You may jump over obstacles
 and enemies but you are able to shoot enemies down with your tennis balls. 
 
@@ -18,3 +20,7 @@ The controls for the game are as followed:
   d -> move right
   
   ENTER key -> shoot tennis balls
+  
+  ![](/Images/DogeScreen.PNG)
+  ![](/Images/DogeScreen3.PNG)
+  
